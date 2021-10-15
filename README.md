@@ -6,7 +6,7 @@ Basic Hacking and Cryptography stuff for a hackathon
 
 |Command|Use|
 |---|---|
-|`|`|Pipe is used to redirect the output of one command/program to input of another command/program|
+|`\|`|Pipe is used to redirect the output of one command/program to input of another command/program|
 |`ls`|lists the contents of the current directory|
 |`ls dir`|lists the contents of directory `dir`|
 |`ls -a dir`|lists the contents including the hidden files/folders|
