@@ -78,3 +78,8 @@ Sort command sorts the contents of a text file, line by line.
 
 - **while statement** : `while condition; do command; done`
 
+## Reversing
+
+The Roadmap 
+
+![alt text](https://github.com/Amik-Sen-Fun/InCTF-Bro/blob/main/images/re.png?raw=true)
