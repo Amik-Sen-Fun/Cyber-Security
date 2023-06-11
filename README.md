@@ -1,6 +1,6 @@
-# InCTF
+# Cyber Security 
 
-Basic Hacking and Cryptography stuff for a hackathon
+Basic Cyber security Stff
 
 ## Linux Basic Commands
 
