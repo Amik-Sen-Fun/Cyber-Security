@@ -1,6 +1,6 @@
 # Cyber Security 
 
-Basic Cyber security Stff
+Basic Cyber security Sutff
 
 ## Linux Basic Commands
 
